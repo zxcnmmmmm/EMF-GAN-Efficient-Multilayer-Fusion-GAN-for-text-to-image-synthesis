@@ -13,12 +13,12 @@ cd EMF-GAN-master
 
 ## Test
 ### Data
-Download the preprocessed metadata for birds coco and save them to data/< br > 
-Download the birds image data. Extract them to data/birds/.Raw text data of CUB dataset is avaiable here< br >
+Download the preprocessed metadata for birds coco and save them to data/<br />
+Download the birds image data. Extract them to data/birds/.Raw text data of CUB dataset is avaiable here<br />
 Download coco dataset and extract the images to data/coco/ 
 
 ### Pretrained Model
-Download the pre-trained text encoder for CUB and save it to ../bird/< br > 
-Download the pre-trained text encoder for coco and save it to ../bird/< br > 
-EMF-GAN for bird. Download and save it to models/bird/< br > 
+Download the pre-trained text encoder for CUB and save it to ../bird/<br />
+Download the pre-trained text encoder for coco and save it to ../bird/<br />
+EMF-GAN for bird. Download and save it to models/bird/<br />
 EMF-GAN for coco. Download and save it to models/coco/ 
