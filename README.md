@@ -18,10 +18,10 @@ Download the birds image data. Extract them to data/birds/.Raw text data of CUB 
 Download coco dataset and extract the images to data/coco/ 
 
 ### Pretrained Model
-* CUB
+* CUB<br />
 Download the pre-trained text encoder for CUB and save it to ../bird/<br />
 EMF-GAN for CUB. Download and save it to models/bird/<br />
 
-* COCO
+* COCO<br />
 EMF-GAN for COCO. Download and save it to models/coco/<br />
 Download the pre-trained text encoder for COCO and save it to ../bird/
