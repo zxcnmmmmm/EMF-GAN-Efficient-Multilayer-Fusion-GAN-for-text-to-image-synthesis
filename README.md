@@ -26,6 +26,13 @@ EMF-GAN for CUB. Download and save it to models/bird/<br />
 Download the pre-trained text encoder for [COCO](https://drive.google.com/file/d/1e_AwWxbClxipEnasfz_QrhmLlv2-Vpyq/view?usp=sharing) and save it to ../bird/<br />
 EMF-GAN for COCO. Download and save it to models/coco/<br />
 
+### Synthesize images
+  ```
+  cd EMF-GAN/code/
+  ```
+- For bird dataset: `b`
+- For coco dataset: `b`
+
 ## Results
 Example results on the CUB and COCO.
 <div align="left;">
