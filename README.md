@@ -1,7 +1,7 @@
   # EMF-GAN-master
 
 ## Main Requirements
-- python 3.9
+- python 3.8
 - torch 
 
 ## Installation
