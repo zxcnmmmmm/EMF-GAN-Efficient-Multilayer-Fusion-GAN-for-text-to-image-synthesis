@@ -14,7 +14,7 @@ cd EMF-GAN-master
 ## Test
 ### Prepare data
 Preprocessed metadata for [CUB](https://drive.google.com/file/d/1I6ybkR7L64K8hZOraEZDuHh0cCJw5OUj/view?usp=sharing) [coco](https://drive.google.com/file/d/15Fw-gErCEArOFykW3YTnLKpRcPgI_3AB/view?usp=sharing) and save them to data/.<br />
-Image data for [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) [coco2014](http://cocodataset.org/#download). Extract them to data/birds/.<br />
+Image data for [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) [coco2014](http://cocodataset.org/#download). Extract them to data/.<br />
 
 ### Pretrained Model
 * CUB<br />
