@@ -30,8 +30,8 @@ EMF-GAN for COCO. Download and save it to models/coco/<br />
   ```
   cd EMF-GAN/code/
   ```
-- For bird dataset: `b`
-- For coco dataset: `b`
+- CUB: `b`
+- COCO: `b`
 
 ## Results
 Example results on the CUB and COCO.
