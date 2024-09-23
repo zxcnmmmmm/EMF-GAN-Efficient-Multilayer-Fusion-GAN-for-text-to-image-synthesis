@@ -29,8 +29,8 @@ EMF-GAN for COCO. Download and save it to models/coco/<br />
   ```
   cd EMF-GAN/code/
   ```
-- CUB: `b`
-- COCO: `b`
+- CUB: ``
+- COCO: ``
 
 ## Results
 Example results on the CUB and COCO.
