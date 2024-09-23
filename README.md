@@ -13,18 +13,18 @@ cd EMF-GAN-master
 
 ## Test
 ### Prepare data
-Download the preprocessed metadata for birds coco and save them to data/<br />
-Download the birds image data. Extract them to data/birds/.Raw text data of CUB dataset is avaiable here<br />
-Download coco dataset and extract the images to data/coco/ 
+Download the preprocessed metadata for [CUB](https://drive.google.com/file/d/1I6ybkR7L64K8hZOraEZDuHh0cCJw5OUj/view?usp=sharing) [coco](https://drive.google.com/file/d/15Fw-gErCEArOFykW3YTnLKpRcPgI_3AB/view?usp=sharing) and save them to data/.<br />
+Download the [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) image data. Extract them to data/birds/.<br />
+Download [coco2014](http://cocodataset.org/#download) dataset and extract the images to data/coco/.
 
 ### Pretrained Model
 * CUB<br />
-Download the pre-trained text encoder for CUB and save it to ../bird/<br />
+Download the pre-trained text encoder for [CUB](https://drive.google.com/file/d/1rzfcCvGwU8vLCrn5reWxmrAMms6WQGA6/view?usp=sharing) and save it to ../bird/<br />
 EMF-GAN for CUB. Download and save it to models/bird/<br />
 
 * COCO<br />
+Download the pre-trained text encoder for [COCO](https://drive.google.com/file/d/1e_AwWxbClxipEnasfz_QrhmLlv2-Vpyq/view?usp=sharing) and save it to ../bird/<br />
 EMF-GAN for COCO. Download and save it to models/coco/<br />
-Download the pre-trained text encoder for COCO and save it to ../bird/
 
 ## Results
 Example results on the CUB and COCO.
