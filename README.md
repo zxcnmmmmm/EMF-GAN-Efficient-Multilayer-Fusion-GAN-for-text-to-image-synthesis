@@ -28,7 +28,7 @@ Download the pre-trained text encoder for COCO and save it to ../bird/
 
 ## Results
 Example results on the CUB and COCO.
-<div align="center">
+<div align="left;">
   <img src="https://github.com/zxcnmmmmm/EMF-GAN-master/blob/main/example.jpg" width="400">
 </div>
 
